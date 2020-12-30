@@ -19,4 +19,4 @@ Terminal output be like:
 
 ![Run Docker](img/run.png)
 
-Full tutorial: TBD
+Full tutorial: [Medium Link](https://fahimsikder.medium.com/installing-docker-and-creating-running-first-python-script-using-it-on-ubuntu-20-04-lts-ca6415d6fa3d)
